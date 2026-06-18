@@ -1,0 +1,5 @@
+CREMP dataset and CycPeptMPDB can be downloaded from Zenodo:
+
+GitHub for CREMP: https://github.com/Genentech/cremp
+Zenodo CREMP: https://zenodo.org/records/8010582
+Zenodo CREMP-CycPeptMPDB: https://zenodo.org/records/13334335
