@@ -1,5 +1,10 @@
 # EnsembleEGNN
 
+### THIS MODEL IS CURRENTLY IN DEVELOPMENT, UPDATE COMING SHORTLY; I WOULD ADVISE NOT USING THIS VERSION.
+-Aaron Feller
+
+---
+
 EnsembleEGNN is the public release for the code and manuscript assets behind the cyclic-peptide conformer-ensemble study accepted to ICML 2026 GFM Workshop. The release surface is intentionally narrow: it contains the all-atom data-preparation path used for the reported experiments, the training and evaluation scripts needed to reproduce the manuscript workflow, and the final manuscript source with figures.
 
 Submisson and reviews can be found here: https://openreview.net/forum?id=PKFtafpZFI
